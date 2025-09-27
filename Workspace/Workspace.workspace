@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Class_and_Objects" Path="Class_and_Objects/Class_and_Objects.project" Active="No"/>
+  <Project Name="MyStringMoveAssignment" Path="MyStringMoveAssignment/MyStringMoveAssignment.project" Active="No"/>
+  <Project Name="15_1_DerivingFirstClass" Path="15_1_DerivingFirstClass/15_1_DerivingFirstClass.project" Active="No"/>
+  <Project Name="15_2_ProtectedMemberClassAccess" Path="15_2_ProtectedMemberClassAccess/15_2_ProtectedMemberClassAccess.project" Active="No"/>
+  <Project Name="15_3_Constructor_Desctructor_174" Path="15_3_Constructor_Desctructor_174/15_3_Constructor_Desctructor_174.project" Active="No"/>
+  <Project Name="15_4_BaseClassInitialization_175" Path="15_4_BaseClassInitialization_175/15_4_BaseClassInitialization_175.project" Active="No"/>
+  <Project Name="15_5_CopyConstructorAssignment_176" Path="15_5_CopyConstructorAssignment_176/15_5_CopyConstructorAssignment_176.project" Active="No"/>
+  <Project Name="15_6_RedefiningBaseClassMethods_177" Path="15_6_RedefiningBaseClassMethods_177/15_6_RedefiningBaseClassMethods_177.project" Active="No"/>
+  <Project Name="15_Inheritance_Challenge" Path="15_Inheritance_Challenge/15_Inheritance_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="Class_and_Objects" ConfigName="Debug"/>
+      <Project Name="MyStringMoveAssignment" ConfigName="Debug"/>
+      <Project Name="15_1_DerivingFirstClass" ConfigName="Debug"/>
+      <Project Name="15_2_ProtectedMemberClassAccess" ConfigName="Debug"/>
+      <Project Name="15_3_Constructor_Desctructor_174" ConfigName="Debug"/>
+      <Project Name="15_4_BaseClassInitialization_175" ConfigName="Debug"/>
+      <Project Name="15_5_CopyConstructorAssignment_176" ConfigName="Debug"/>
+      <Project Name="15_6_RedefiningBaseClassMethods_177" ConfigName="Debug"/>
+      <Project Name="15_Inheritance_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="Class_and_Objects" ConfigName="Release"/>
+      <Project Name="MyStringMoveAssignment" ConfigName="Release"/>
+      <Project Name="15_1_DerivingFirstClass" ConfigName="Release"/>
+      <Project Name="15_2_ProtectedMemberClassAccess" ConfigName="Release"/>
+      <Project Name="15_3_Constructor_Desctructor_174" ConfigName="Release"/>
+      <Project Name="15_4_BaseClassInitialization_175" ConfigName="Release"/>
+      <Project Name="15_5_CopyConstructorAssignment_176" ConfigName="Release"/>
+      <Project Name="15_6_RedefiningBaseClassMethods_177" ConfigName="Release"/>
+      <Project Name="15_Inheritance_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
