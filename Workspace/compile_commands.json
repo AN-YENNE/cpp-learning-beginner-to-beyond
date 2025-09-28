@@ -1,7 +1,187 @@
 [{
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account_Util.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account_Util.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account_Util.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Checking_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Checking_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Checking_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\I_Printable.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\I_Printable.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\I_Printable.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Savings_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Savings_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Savings_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account_Util.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account_Util.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Account_Util.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Checking_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Checking_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Checking_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Trust_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Trust_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Trust_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\I_Printable.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\I_Printable.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\I_Printable.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Savings_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Savings_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Savings_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Trust_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_10_ChallengeSolution_Final",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Trust_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part2\\Trust_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\TheProblem\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_0_Problem_without_Polymorphism",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\TheProblem\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\TheProblem\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account_Util.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account_Util.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account_Util.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account_Util.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account_Util.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account_Util.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Checking_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Checking_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Checking_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Savings_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Savings_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Savings_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Checking_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Checking_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Checking_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Savings_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Savings_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Savings_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Trust_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Trust_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Trust_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Trust_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_9_ChallengeSolution_Part2_194",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Trust_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution-Part1\\Trust_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\Interfaces\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_6_Interfaces_191",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\Interfaces\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\Interfaces\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\UsingOverride\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_3_UsingOverride_187",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\UsingOverride\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\UsingOverride\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\BaseClassPointers\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_1",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\BaseClassPointers\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\BaseClassPointers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\BaseClassReferences\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_0_UsingBaseClassReference",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\BaseClassReferences\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\BaseClassReferences\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\UsingFinal\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_4_UsingFinal_188",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\UsingFinal\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\UsingFinal\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\VirtualDestructors\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_2_VirtualConstructor_Descructor_Function",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\VirtualDestructors\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\VirtualDestructors\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Trust_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Trust_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Trust_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Checking_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Checking_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Checking_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account_Util.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account_Util.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account_Util.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account_Util.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account_Util.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account_Util.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Checking_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Checking_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Checking_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\I_Printable.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\I_Printable.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\I_Printable.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Savings_Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Savings_Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Savings_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Savings_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Savings_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Savings_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\I_Printable.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\I_Printable.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\I_Printable.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account.h",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account.h -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Trust_Account.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_8_ChallengeSolution_193",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Trust_Account.cpp -o C:\\ANY\\31_CPP\\Section16\\ChallengeSolution\\Trust_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
 		"file":	"C:\\ANY\\31_CPP\\Section15\\Section15\\CopyConstructorAssignmentOperator\\main.cpp",
 		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\15_5_CopyConstructorAssignment_176",
 		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section15\\Section15\\CopyConstructorAssignmentOperator\\main.cpp -o C:\\ANY\\31_CPP\\Section15\\Section15\\CopyConstructorAssignmentOperator\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\Interfaces-Complete\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_7_Interfaces_Complete_191",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\Interfaces-Complete\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\Interfaces-Complete\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
 	}, {
 		"file":	"C:\\ANY\\31_CPP\\Section15\\Section15\\RedefiningBaseClassMethods\\Account.cpp",
 		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\15_6_RedefiningBaseClassMethods_177",
@@ -22,6 +202,10 @@
 		"file":	"C:\\ANY\\31_CPP\\Section15\\Section15\\RedefiningBaseClassMethods\\Savings_Account.h",
 		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\15_6_RedefiningBaseClassMethods_177",
 		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section15\\Section15\\RedefiningBaseClassMethods\\Savings_Account.h -o C:\\ANY\\31_CPP\\Section15\\Section15\\RedefiningBaseClassMethods\\Savings_Account.h.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\ANY\\31_CPP\\Section16\\PureVirtualFunctions\\main.cpp",
+		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\16_5_PureVirtualFunctions_190",
+		"command":	"C:/Tools/mingw64/bin/g++.exe -c C:\\ANY\\31_CPP\\Section16\\PureVirtualFunctions\\main.cpp -o C:\\ANY\\31_CPP\\Section16\\PureVirtualFunctions\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -IC:\\Tools\\mingw64\\include\\c++\\15.2.0\\backward -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -IC:\\Tools\\mingw64\\include -IC:\\Tools\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -IC:\\Tools\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
 	}, {
 		"file":	"C:\\ANY\\31_CPP\\Section15\\Section15\\ConstructorsAndDestructors\\main.cpp",
 		"directory":	"C:\\ANY\\31_CPP\\cpp-learning-beginner-to-beyond\\Workspace\\15_3_Constructor_Desctructor_174",

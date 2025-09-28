@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Workspace" Database="" Version="10000">
   <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
-  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
-  <Project Name="Class_and_Objects" Path="Class_and_Objects/Class_and_Objects.project" Active="No"/>
-  <Project Name="MyStringMoveAssignment" Path="MyStringMoveAssignment/MyStringMoveAssignment.project" Active="No"/>
   <Project Name="15_1_DerivingFirstClass" Path="15_1_DerivingFirstClass/15_1_DerivingFirstClass.project" Active="No"/>
   <Project Name="15_2_ProtectedMemberClassAccess" Path="15_2_ProtectedMemberClassAccess/15_2_ProtectedMemberClassAccess.project" Active="No"/>
   <Project Name="15_3_Constructor_Desctructor_174" Path="15_3_Constructor_Desctructor_174/15_3_Constructor_Desctructor_174.project" Active="No"/>
   <Project Name="15_4_BaseClassInitialization_175" Path="15_4_BaseClassInitialization_175/15_4_BaseClassInitialization_175.project" Active="No"/>
   <Project Name="15_5_CopyConstructorAssignment_176" Path="15_5_CopyConstructorAssignment_176/15_5_CopyConstructorAssignment_176.project" Active="No"/>
   <Project Name="15_6_RedefiningBaseClassMethods_177" Path="15_6_RedefiningBaseClassMethods_177/15_6_RedefiningBaseClassMethods_177.project" Active="No"/>
-  <Project Name="15_Inheritance_Challenge" Path="15_Inheritance_Challenge/15_Inheritance_Challenge.project" Active="Yes"/>
+  <Project Name="15_Inheritance_Challenge" Path="15_Inheritance_Challenge/15_Inheritance_Challenge.project" Active="No"/>
+  <VirtualDirectory Name="16_Polymorphism">
+    <Project Name="16_1" Path="16_1/16_1.project" Active="No"/>
+    <Project Name="16_2_VirtualConstructor_Descructor_Function" Path="16_2_VirtualConstructor_Descructor_Function/16_2_VirtualConstructor_Descructor_Function.project" Active="No"/>
+    <Project Name="16_3_UsingOverride_187" Path="16_3_UsingOverride_187/16_3_UsingOverride_187.project" Active="No"/>
+    <Project Name="16_4_UsingFinal_188" Path="16_4_UsingFinal_188/16_4_UsingFinal_188.project" Active="No"/>
+    <Project Name="16_5_PureVirtualFunctions_190" Path="16_5_PureVirtualFunctions_190/16_5_PureVirtualFunctions_190.project" Active="No"/>
+    <Project Name="16_6_Interfaces_191" Path="16_6_Interfaces_191/16_6_Interfaces_191.project" Active="No"/>
+    <Project Name="16_7_Interfaces_Complete_191" Path="16_7_Interfaces_Complete_191/16_7_Interfaces_Complete_191.project" Active="No"/>
+    <Project Name="16_0_UsingBaseClassReference" Path="16_0_UsingBaseClassReference/16_0_UsingBaseClassReference.project" Active="No"/>
+    <Project Name="16_0_Problem_without_Polymorphism" Path="16_0_Problem_without_Polymorphism/16_0_Problem_without_Polymorphism.project" Active="No"/>
+    <Project Name="16_8_ChallengeSolution_193" Path="16_8_ChallengeSolution_193/16_8_ChallengeSolution_193.project" Active="No"/>
+    <Project Name="16_9_ChallengeSolution_Part2_194" Path="16_9_ChallengeSolution_Part2_194/16_9_ChallengeSolution_Part2_194.project" Active="No"/>
+    <Project Name="16_10_ChallengeSolution_Final" Path="16_10_ChallengeSolution_Final/16_10_ChallengeSolution_Final.project" Active="Yes"/>
+  </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +36,18 @@
       <Project Name="15_5_CopyConstructorAssignment_176" ConfigName="Debug"/>
       <Project Name="15_6_RedefiningBaseClassMethods_177" ConfigName="Debug"/>
       <Project Name="15_Inheritance_Challenge" ConfigName="Debug"/>
+      <Project Name="16_1_BaseClassPointers_184" ConfigName="Debug"/>
+      <Project Name="16_2_VirtualConstructor_Descructor_Function" ConfigName="Debug"/>
+      <Project Name="16_3_UsingOverride_187" ConfigName="Debug"/>
+      <Project Name="16_4_UsingFinal_188" ConfigName="Debug"/>
+      <Project Name="16_5_PureVirtualFunctions_190" ConfigName="Debug"/>
+      <Project Name="16_6_Interfaces_191" ConfigName="Debug"/>
+      <Project Name="16_7_Interfaces_Complete_191" ConfigName="Debug"/>
+      <Project Name="16_0_UsingBaseClassReference" ConfigName="Debug"/>
+      <Project Name="16_0_Problem_without_Polymorphism" ConfigName="Debug"/>
+      <Project Name="16_8_ChallengeSolution_193" ConfigName="Debug"/>
+      <Project Name="16_9_ChallengeSolution_Part2_194" ConfigName="Debug"/>
+      <Project Name="16_10_ChallengeSolution_Final" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +62,18 @@
       <Project Name="15_5_CopyConstructorAssignment_176" ConfigName="Release"/>
       <Project Name="15_6_RedefiningBaseClassMethods_177" ConfigName="Release"/>
       <Project Name="15_Inheritance_Challenge" ConfigName="Release"/>
+      <Project Name="16_1_BaseClassPointers_184" ConfigName="Release"/>
+      <Project Name="16_2_VirtualConstructor_Descructor_Function" ConfigName="Release"/>
+      <Project Name="16_3_UsingOverride_187" ConfigName="Release"/>
+      <Project Name="16_4_UsingFinal_188" ConfigName="Release"/>
+      <Project Name="16_5_PureVirtualFunctions_190" ConfigName="Release"/>
+      <Project Name="16_6_Interfaces_191" ConfigName="Release"/>
+      <Project Name="16_7_Interfaces_Complete_191" ConfigName="Release"/>
+      <Project Name="16_0_UsingBaseClassReference" ConfigName="Release"/>
+      <Project Name="16_0_Problem_without_Polymorphism" ConfigName="Release"/>
+      <Project Name="16_8_ChallengeSolution_193" ConfigName="Release"/>
+      <Project Name="16_9_ChallengeSolution_Part2_194" ConfigName="Release"/>
+      <Project Name="16_10_ChallengeSolution_Final" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
