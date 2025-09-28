@@ -27,7 +27,18 @@
     <Project Name="17_2_SharedPointers_200" Path="17_2_SharedPointers_200/17_2_SharedPointers_200.project" Active="No"/>
     <Project Name="17_3_WeakPointers_201" Path="17_3_WeakPointers_201/17_3_WeakPointers_201.project" Active="No"/>
     <Project Name="17_4_CustomDeleters_202" Path="17_4_CustomDeleters_202/17_4_CustomDeleters_202.project" Active="No"/>
-    <Project Name="17_5_Challenge_204" Path="17_5_Challenge_204/17_5_Challenge_204.project" Active="Yes"/>
+    <Project Name="17_5_Challenge_204" Path="17_5_Challenge_204/17_5_Challenge_204.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="18_ExceptionHandling">
+    <Project Name="18_1_MilePerGallon" Path="18_1_MilePerGallon/18_1_MilePerGallon.project" Active="No"/>
+    <Project Name="18_2_DivideByZeroException" Path="18_2_DivideByZeroException/18_2_DivideByZeroException.project" Active="No"/>
+    <Project Name="18_3_ThrowExceptionFromFunction_207" Path="18_3_ThrowExceptionFromFunction_207/18_3_ThrowExceptionFromFunction_207.project" Active="No"/>
+    <Project Name="18_4_MultipleExceptionsHandling_208" Path="18_4_MultipleExceptionsHandling_208/18_4_MultipleExceptionsHandling_208.project" Active="No"/>
+    <Project Name="18_5_Stackunwinding_209" Path="18_5_Stackunwinding_209/18_5_Stackunwinding_209.project" Active="No"/>
+    <Project Name="18_6_ExceptionClasses_210" Path="18_6_ExceptionClasses_210/18_6_ExceptionClasses_210.project" Active="No"/>
+    <Project Name="18_7_ConstructorException_211" Path="18_7_ConstructorException_211/18_7_ConstructorException_211.project" Active="No"/>
+    <Project Name="18_8_FunctionExceptionInheritance" Path="18_8_FunctionExceptionInheritance/18_8_FunctionExceptionInheritance.project" Active="No"/>
+    <Project Name="18_9_Challenge" Path="18_9_Challenge/18_9_Challenge.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
@@ -60,6 +71,15 @@
       <Project Name="17_3_WeakPointers_201" ConfigName="Debug"/>
       <Project Name="17_4_CustomDeleters_202" ConfigName="Debug"/>
       <Project Name="17_5_Challenge_204" ConfigName="Debug"/>
+      <Project Name="18_1_MilePerGallon" ConfigName="Debug"/>
+      <Project Name="18_2_DivideByZeroException" ConfigName="Debug"/>
+      <Project Name="18_3_ThrowExceptionFromFunction_207" ConfigName="Debug"/>
+      <Project Name="18_4_MultipleExceptionsHandling_208" ConfigName="Debug"/>
+      <Project Name="18_5_Stackunwinding_209" ConfigName="Debug"/>
+      <Project Name="18_6_ExceptionClasses_210" ConfigName="Debug"/>
+      <Project Name="18_7_ConstructorException_211" ConfigName="Debug"/>
+      <Project Name="18_8_FunctionExceptionInheritance" ConfigName="Debug"/>
+      <Project Name="18_9_Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -91,6 +111,15 @@
       <Project Name="17_3_WeakPointers_201" ConfigName="Release"/>
       <Project Name="17_4_CustomDeleters_202" ConfigName="Release"/>
       <Project Name="17_5_Challenge_204" ConfigName="Release"/>
+      <Project Name="18_1_MilePerGallon" ConfigName="Release"/>
+      <Project Name="18_2_DivideByZeroException" ConfigName="Release"/>
+      <Project Name="18_3_ThrowExceptionFromFunction_207" ConfigName="Release"/>
+      <Project Name="18_4_MultipleExceptionsHandling_208" ConfigName="Release"/>
+      <Project Name="18_5_Stackunwinding_209" ConfigName="Release"/>
+      <Project Name="18_6_ExceptionClasses_210" ConfigName="Release"/>
+      <Project Name="18_7_ConstructorException_211" ConfigName="Release"/>
+      <Project Name="18_8_FunctionExceptionInheritance" ConfigName="Release"/>
+      <Project Name="18_9_Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
