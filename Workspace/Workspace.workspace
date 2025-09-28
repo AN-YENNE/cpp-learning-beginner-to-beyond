@@ -20,7 +20,14 @@
     <Project Name="16_0_Problem_without_Polymorphism" Path="16_0_Problem_without_Polymorphism/16_0_Problem_without_Polymorphism.project" Active="No"/>
     <Project Name="16_8_ChallengeSolution_193" Path="16_8_ChallengeSolution_193/16_8_ChallengeSolution_193.project" Active="No"/>
     <Project Name="16_9_ChallengeSolution_Part2_194" Path="16_9_ChallengeSolution_Part2_194/16_9_ChallengeSolution_Part2_194.project" Active="No"/>
-    <Project Name="16_10_ChallengeSolution_Final" Path="16_10_ChallengeSolution_Final/16_10_ChallengeSolution_Final.project" Active="Yes"/>
+    <Project Name="16_10_ChallengeSolution_Final" Path="16_10_ChallengeSolution_Final/16_10_ChallengeSolution_Final.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="17_SmartPointers">
+    <Project Name="17_1_UniquePointers_199" Path="17_1_UniquePointers_199/17_1_UniquePointers_199.project" Active="No"/>
+    <Project Name="17_2_SharedPointers_200" Path="17_2_SharedPointers_200/17_2_SharedPointers_200.project" Active="No"/>
+    <Project Name="17_3_WeakPointers_201" Path="17_3_WeakPointers_201/17_3_WeakPointers_201.project" Active="No"/>
+    <Project Name="17_4_CustomDeleters_202" Path="17_4_CustomDeleters_202/17_4_CustomDeleters_202.project" Active="No"/>
+    <Project Name="17_5_Challenge_204" Path="17_5_Challenge_204/17_5_Challenge_204.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
@@ -48,6 +55,11 @@
       <Project Name="16_8_ChallengeSolution_193" ConfigName="Debug"/>
       <Project Name="16_9_ChallengeSolution_Part2_194" ConfigName="Debug"/>
       <Project Name="16_10_ChallengeSolution_Final" ConfigName="Debug"/>
+      <Project Name="17_1_UniquePointers_199" ConfigName="Debug"/>
+      <Project Name="17_2_SharedPointers_200" ConfigName="Debug"/>
+      <Project Name="17_3_WeakPointers_201" ConfigName="Debug"/>
+      <Project Name="17_4_CustomDeleters_202" ConfigName="Debug"/>
+      <Project Name="17_5_Challenge_204" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -74,6 +86,11 @@
       <Project Name="16_8_ChallengeSolution_193" ConfigName="Release"/>
       <Project Name="16_9_ChallengeSolution_Part2_194" ConfigName="Release"/>
       <Project Name="16_10_ChallengeSolution_Final" ConfigName="Release"/>
+      <Project Name="17_1_UniquePointers_199" ConfigName="Release"/>
+      <Project Name="17_2_SharedPointers_200" ConfigName="Release"/>
+      <Project Name="17_3_WeakPointers_201" ConfigName="Release"/>
+      <Project Name="17_4_CustomDeleters_202" ConfigName="Release"/>
+      <Project Name="17_5_Challenge_204" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
