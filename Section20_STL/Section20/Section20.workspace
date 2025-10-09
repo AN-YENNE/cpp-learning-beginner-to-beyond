@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section20" Database="" Version="10000">
-  <Project Name="Challenge_1_Solution" Path="../Challenge_1_Solution/Challenge_1_Solution.project" Active="Yes"/>
+  <Project Name="Challenge_1_Solution" Path="../Challenge_1_Solution/Challenge_1_Solution.project" Active="No"/>
+  <Project Name="20_1_FunctionTemplates_240" Path="../FunctionTemplates/FunctionTemplates.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Challenge_1_Solution" ConfigName="Debug"/>
+      <Project Name="20_1_FunctionTemplates_240" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Challenge_1_Solution" ConfigName="Release"/>
+      <Project Name="20_1_FunctionTemplates_240" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
