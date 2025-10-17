@@ -1,17 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section20" Database="" Version="10000">
   <Project Name="Challenge_1_Solution" Path="../Challenge_1_Solution/Challenge_1_Solution.project" Active="No"/>
-  <Project Name="20_1_FunctionTemplates_240" Path="../FunctionTemplates/FunctionTemplates.project" Active="Yes"/>
+  <Project Name="20_3_ClassTemplatesArray_242" Path="20_3_ClassTemplatesArray_242/20_3_ClassTemplatesArray_242.project" Active="No"/>
+  <Project Name="20_4_Iterators_245" Path="20_4_Iterators_245/20_4_Iterators_245.project" Active="No"/>
+  <Project Name="20_4_IntroductionToAlgorithms_247" Path="20_4_IntroductionToAlgorithms_247/20_4_IntroductionToAlgorithms_247.project" Active="No"/>
+  <Project Name="20_5_SequenceContainerArray_248" Path="20_4_SequenceContainerArray_248/20_4_SequenceContainerArray_248.project" Active="No"/>
+  <Project Name="20_6_SequenceContainersVectors_249" Path="20_6_SequenceContainersVectors_249/20_6_SequenceContainersVectors_249.project" Active="No"/>
+  <Project Name="20_7_SequenceContainerDeque_250" Path="20_7_SequenceContainerDeque_250/20_7_SequenceContainerDeque_250.project" Active="No"/>
+  <Project Name="20_8_PalindromeChallengeUsingDeque_252" Path="20_8_PalindromeChallengeUsingDeque_252/20_8_PalindromeChallengeUsingDeque_252.project" Active="No"/>
+  <Project Name="20_9_ListAndForwardList_253" Path="20_9_ListAndForwardList_253/20_9_ListAndForwardList_253.project" Active="No"/>
+  <Project Name="20_10_MeadiaPlayList_Challenge_255" Path="20_10_MeadiaPlayList_Challenge_255/20_10_MeadiaPlayList_Challenge_255.project" Active="No"/>
+  <Project Name="20_11_AssociativeContainer_Sets_256" Path="20_11_AssociativeContainer_Sets_256/20_11_AssociativeContainer_Sets_256.project" Active="No"/>
+  <Project Name="20_12_AssociativeContainers_Maps_257" Path="20_12_AssociativeContainers_Maps_257/20_12_AssociativeContainers_Maps_257.project" Active="No"/>
+  <Project Name="20_13_Sets_Maps_Challange_259" Path="20_13_Sets_Maps_Challange_259/20_13_Sets_Maps_Challange_259.project" Active="No"/>
+  <Project Name="20_14_ContainerAdaptors_Stack_260" Path="20_14_ContainerAdaptors_Stack_260/20_14_ContainerAdaptors_Stack_260.project" Active="No"/>
+  <Project Name="20_15_AdaptorConatiners_Queue_261" Path="20_15_AdaptorConatiners_Queue_261/20_15_AdaptorConatiners_Queue_261.project" Active="No"/>
+  <Project Name="20_16_PalindromeChallange_using_Stack_and_Queue_263" Path="20_16_PalindromeChallange_using_Stack_and_Queue_263/20_16_PalindromeChallange_using_Stack_and_Queue_263.project" Active="No"/>
+  <Project Name="20_17_ContainerAdaptors_PriorityQueue_264" Path="20_17_ContainerAdaptors_PriorityQueue_264/20_17_ContainerAdaptors_PriorityQueue_264.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Challenge_1_Solution" ConfigName="Debug"/>
       <Project Name="20_1_FunctionTemplates_240" ConfigName="Debug"/>
+      <Project Name="20_2_ClassTemplates_241" ConfigName="Debug"/>
+      <Project Name="20_3_ClassTemplatesArray_242" ConfigName="Debug"/>
+      <Project Name="20_4_Iterators_245" ConfigName="Debug"/>
+      <Project Name="20_4_IntroductionToAlgorithms_247" ConfigName="Debug"/>
+      <Project Name="20_5_SequenceContainerArray_248" ConfigName="Debug"/>
+      <Project Name="20_6_SequenceContainersVectors_249" ConfigName="Debug"/>
+      <Project Name="20_7_SequenceContainerDeque_250" ConfigName="Debug"/>
+      <Project Name="20_8_PalindromeChallengeUsingDeque_252" ConfigName="Debug"/>
+      <Project Name="20_9_ListAndForwardList_253" ConfigName="Debug"/>
+      <Project Name="20_10_MeadiaPlayList_Challenge_255" ConfigName="Debug"/>
+      <Project Name="20_11_AssociativeContainer_Sets_256" ConfigName="Debug"/>
+      <Project Name="20_12_AssociativeContainers_Maps_257" ConfigName="Debug"/>
+      <Project Name="20_13_Sets_Maps_Challange_259" ConfigName="Debug"/>
+      <Project Name="20_14_ContainerAdaptors_Stack_260" ConfigName="Debug"/>
+      <Project Name="20_15_AdaptorConatiners_Queue_261" ConfigName="Debug"/>
+      <Project Name="20_16_PalindromeChallange_using_Stack_and_Queue_263" ConfigName="Debug"/>
+      <Project Name="20_17_ContainerAdaptors_PriorityQueue_264" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Challenge_1_Solution" ConfigName="Release"/>
       <Project Name="20_1_FunctionTemplates_240" ConfigName="Release"/>
+      <Project Name="20_2_ClassTemplates_241" ConfigName="Release"/>
+      <Project Name="20_3_ClassTemplatesArray_242" ConfigName="Release"/>
+      <Project Name="20_4_Iterators_245" ConfigName="Release"/>
+      <Project Name="20_4_IntroductionToAlgorithms_247" ConfigName="Release"/>
+      <Project Name="20_5_SequenceContainerArray_248" ConfigName="Release"/>
+      <Project Name="20_6_SequenceContainersVectors_249" ConfigName="Release"/>
+      <Project Name="20_7_SequenceContainerDeque_250" ConfigName="Release"/>
+      <Project Name="20_8_PalindromeChallengeUsingDeque_252" ConfigName="Release"/>
+      <Project Name="20_9_ListAndForwardList_253" ConfigName="Release"/>
+      <Project Name="20_10_MeadiaPlayList_Challenge_255" ConfigName="Release"/>
+      <Project Name="20_11_AssociativeContainer_Sets_256" ConfigName="Release"/>
+      <Project Name="20_12_AssociativeContainers_Maps_257" ConfigName="Release"/>
+      <Project Name="20_13_Sets_Maps_Challange_259" ConfigName="Release"/>
+      <Project Name="20_14_ContainerAdaptors_Stack_260" ConfigName="Release"/>
+      <Project Name="20_15_AdaptorConatiners_Queue_261" ConfigName="Release"/>
+      <Project Name="20_16_PalindromeChallange_using_Stack_and_Queue_263" ConfigName="Release"/>
+      <Project Name="20_17_ContainerAdaptors_PriorityQueue_264" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

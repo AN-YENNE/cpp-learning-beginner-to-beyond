@@ -1,7 +1,7 @@
 // Section 20
 // Extended Algorithms Demo (find, count, replace, transform, partition, remove_if, copy_if, for_each, sort, unique)
 
-#include <iostream>
+ #include <iostream>
 #include <vector>
 #include <list>
 #include <algorithm>

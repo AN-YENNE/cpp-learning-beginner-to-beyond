@@ -1,0 +1,1 @@
+../build-Debug/20_8_PalindromeChallengeUsingDeque_252/main.cpp.o   

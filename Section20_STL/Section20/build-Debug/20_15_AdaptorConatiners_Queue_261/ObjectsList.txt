@@ -1,0 +1,1 @@
+../build-Debug/20_15_AdaptorConatiners_Queue_261/main.cpp.o   
