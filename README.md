@@ -1,7 +1,6 @@
 # C++ Learning: Beginner to Beyond
 
-This repository contains my code, exercises, and projects from the Udemy course:
-**"Beginning C++ Programming - From Beginner to Beyond"**
+This repository contains my code exercises from the course: **"Beginning C++ Programming - From Beginner to Beyond"**
 
 ## Topics Covered
 * Looping with while, do/while for, range-based for statements and recursion
@@ -18,9 +17,8 @@ This repository contains my code, exercises, and projects from the Udemy course:
 * Using Polymorphic functions and dynamic binding 
 * Using smart pointers
 * Using stream I/O
-* An introduction to the C++ STL
+* An introduction to the C++ STL: Algorithms, Iterators, Containers,..
 * An introduction to Exception Handling
 * And much more.
 
 ## Course Link
-[Udemy Course]([https://www.udemy.com/course/beginning-c-plus-plus-programming/](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535660#overview)) <!-- Optional -->
