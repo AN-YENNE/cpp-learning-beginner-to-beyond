@@ -1,1 +1,0 @@
-../build-Debug/20_3_ClassTemplatesArray_242/main.cpp.o   

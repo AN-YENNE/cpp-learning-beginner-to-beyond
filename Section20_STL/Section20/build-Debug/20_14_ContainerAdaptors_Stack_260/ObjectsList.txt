@@ -1,1 +1,0 @@
-../build-Debug/20_14_ContainerAdaptors_Stack_260/main.cpp.o   

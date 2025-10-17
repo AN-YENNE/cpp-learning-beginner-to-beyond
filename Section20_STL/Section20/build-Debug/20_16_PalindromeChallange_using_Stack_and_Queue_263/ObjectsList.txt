@@ -1,1 +1,0 @@
-../build-Debug/20_16_PalindromeChallange_using_Stack_and_Queue_263/main.cpp.o   
