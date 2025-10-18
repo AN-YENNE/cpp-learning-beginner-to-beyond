@@ -1,5 +1,4 @@
-// Section 21
-// Stateless lambda expressions
+// Section 21: Stateless lambda expressions
 // [] - empty capture lists (no external variables are captured)
 
 #include <iostream>
