@@ -1,14 +1,10 @@
 // Section 21
 // Stateful Lambda Expressions - Capture by Value, Reference, and this
 // ---------------------------------------------------------------
-// Includes:
-// <iostream>   -> for console input/output
-// <vector>     -> for std::vector
-// <algorithm>  -> for std::copy_if and other algorithms
 
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <iostream> //-> for console input/output
+#include <vector> //-> for std::vector
+#include <algorithm> //-> for std::copy_if and other algorithms
 
 // A global variable (not captured but accessible through normal lookup)
 int global_x {1000};
@@ -307,9 +303,6 @@ void test10() {
     for (const auto &p: result) std::cout << p << std::endl;
 }
 
-// ==========================================================================
-// MAIN
-// ==========================================================================
 int main()
 {
     test1();
