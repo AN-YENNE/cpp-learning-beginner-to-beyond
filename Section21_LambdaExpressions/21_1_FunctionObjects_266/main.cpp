@@ -134,3 +134,12 @@ int main()
     std::cout << "\n========== Program Completed Successfully ==========\n";
     return 0;
 }
+/*Key takeaways for beginners:
+
+Functors are just classes with operator() defined.
+
+They can be used like regular functions.
+
+std::for_each and std::transform can work with functors, lambdas, or regular functions.
+
+Lambdas are a quick, inline way to define functor-like behavior without creating a separate class.*/
