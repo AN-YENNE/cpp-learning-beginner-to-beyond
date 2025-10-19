@@ -38,8 +38,12 @@
     <Project Name="18_6_ExceptionClasses_210" Path="18_6_ExceptionClasses_210/18_6_ExceptionClasses_210.project" Active="No"/>
     <Project Name="18_7_ConstructorException_211" Path="18_7_ConstructorException_211/18_7_ConstructorException_211.project" Active="No"/>
     <Project Name="18_8_FunctionExceptionInheritance" Path="18_8_FunctionExceptionInheritance/18_8_FunctionExceptionInheritance.project" Active="No"/>
-    <Project Name="18_9_Challenge" Path="18_9_Challenge/18_9_Challenge.project" Active="Yes"/>
+    <Project Name="18_9_Challenge" Path="18_9_Challenge/18_9_Challenge.project" Active="No"/>
   </VirtualDirectory>
+  <VirtualDirectory Name="19_IO_and_Streams">
+    <Project Name="19_1_Challange1" Path="19_1_Challange1/19_1_Challange1.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="Challenge_1_Solution" Path="Challenge_1_Solution/Challenge_1_Solution.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -80,6 +84,9 @@
       <Project Name="18_7_ConstructorException_211" ConfigName="Debug"/>
       <Project Name="18_8_FunctionExceptionInheritance" ConfigName="Debug"/>
       <Project Name="18_9_Challenge" ConfigName="Debug"/>
+      <Project Name="19_1_Challenge_1" ConfigName="Debug"/>
+      <Project Name="19_1_Challange1" ConfigName="Debug"/>
+      <Project Name="Challenge_1_Solution" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -120,6 +127,9 @@
       <Project Name="18_7_ConstructorException_211" ConfigName="Release"/>
       <Project Name="18_8_FunctionExceptionInheritance" ConfigName="Release"/>
       <Project Name="18_9_Challenge" ConfigName="Release"/>
+      <Project Name="19_1_Challenge_1" ConfigName="Release"/>
+      <Project Name="19_1_Challange1" ConfigName="Release"/>
+      <Project Name="Challenge_1_Solution" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\ANY\31_CPP\cpp-learning-beginner-to-beyond\Workspace\Workspace.workspace">
-  <int Value="1" Name="m_selectedTab"/>
+  <int Value="0" Name="m_selectedTab"/>
   <wxString Value="C:\ANY\31_CPP\cpp-learning-beginner-to-beyond\Workspace\Workspace.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\ANY\31_CPP\Section14_OperatorOverloading\Mystring-move-assignment\main.cpp" Name="FileName"/>
+      <wxString Value="C:\ANY\31_CPP\cpp-learning-beginner-to-beyond\Workspace\Challenge_1_Solution\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="2" Name="CurrentLine"/>
+      <int Value="4" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\ANY\31_CPP\Section14_OperatorOverloading\Mystring-move-assignment\Mystring.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="17" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\ANY\31_CPP\Section14_OperatorOverloading\Mystring-move-assignment\Mystring.h" Name="FileName"/>
+      <wxString Value="C:\ANY\31_CPP\cpp-learning-beginner-to-beyond\Workspace\Challenge_1_Solution\description.txt" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
