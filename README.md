@@ -1,6 +1,6 @@
-# C++ Learning: Beginner to Beyond
+# C++ Beginner to Beyond
 
-This repository contains my code exercises from the course: **"Beginning C++ Programming - From Beginner to Beyond"**
+This repository contains my code exercises from C++ Programming
 
 ## Topics Covered
 * Looping with while, do/while for, range-based for statements and recursion
