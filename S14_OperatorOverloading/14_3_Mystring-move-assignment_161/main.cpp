@@ -1,7 +1,4 @@
-// File3: main.cpp
-// --------------------------------------------------------------
-// Section 14
-// Overloading move constructor and move assignment operator
+// Section 14: Overloading move constructor and move assignment operator
 //
 // This driver demonstrates when copy vs. move assignment happens.
 // We use generic sample names and messages for clarity.

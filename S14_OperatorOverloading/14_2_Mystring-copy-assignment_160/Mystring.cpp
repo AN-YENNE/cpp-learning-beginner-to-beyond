@@ -1,5 +1,3 @@
-// File2: Mystring.cpp
-// --------------------------------------------------------------
 // Implements constructors, destructor, and copy assignment operator.
 // Demonstrates correct deep copy logic to handle dynamically allocated memory.
 // --------------------------------------------------------------
