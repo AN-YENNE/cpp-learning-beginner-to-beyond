@@ -1,5 +1,4 @@
-// Section 6
-// Global and local variables 
+// Section 6: Global and local variables 
 
 #include <iostream>
  
