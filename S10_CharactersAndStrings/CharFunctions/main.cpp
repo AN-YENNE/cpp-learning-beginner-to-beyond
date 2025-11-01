@@ -1,11 +1,7 @@
-// Section 10
-// Character Classification and Conversion using <cctype>
+// Section 10 Character Classification and Conversion using <cctype>
 //
 // This program demonstrates the use of character-based functions
 // from the C++ standard library header <cctype>.
-//
-// These functions allow you to test and convert individual characters,
-// which is helpful when parsing or processing text input.
 
 #include <iostream>
 #include <cctype>  // for isalpha, isdigit, isspace, ispunct, toupper, etc.
