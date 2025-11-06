@@ -1,10 +1,8 @@
 # C++ Beginner to Beyond
-
 This repository contains my code exercises from C++ Programming
 
-## Topics Covered
-* Looping with while, do/while for, range-based for statements and recursion
-* Performing calculations and displaying results
+## Topics include
+* Looping with while, do/while, for, range-based for statements and recursion
 * Functions
 * Pointers
 * Using existing classes and creating objects
@@ -20,5 +18,3 @@ This repository contains my code exercises from C++ Programming
 * An introduction to the C++ STL: Algorithms, Iterators, Containers,..
 * An introduction to Exception Handling
 * And much more.
-
-## Course Link
