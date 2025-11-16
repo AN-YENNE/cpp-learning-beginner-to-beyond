@@ -3,7 +3,7 @@
 
 #include <iostream>     // std::cout, std::endl
 #include <queue>        // std::priority_queue
-#include <string>       // std::string
+#include <string>       
 
 // ====================
 // Custom Person class
