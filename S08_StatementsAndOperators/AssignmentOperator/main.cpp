@@ -1,4 +1,4 @@
-// Section 8: Assignment operator (=) and friends
+// Section 8: Assignment operator (=) and friends:
 //
 // This program demonstrates many assignment scenarios:
 // - Simple assignment to built-in types
