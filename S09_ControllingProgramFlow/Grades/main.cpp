@@ -1,6 +1,4 @@
 // Section 9
-// Grades
-
 /*
     Calculate a sudent's grade on an exam given their score
     and tell them if they passed the course
