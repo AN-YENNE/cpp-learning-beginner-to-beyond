@@ -1,5 +1,4 @@
 // Section 17
-// Challenge 1 - Solution
 /***********************************************************************************************************
 Create a program that has the following:
 
