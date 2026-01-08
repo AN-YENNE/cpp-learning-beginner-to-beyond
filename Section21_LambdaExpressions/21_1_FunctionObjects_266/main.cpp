@@ -6,9 +6,9 @@
 #include <algorithm> // -> for algorithms like std::for_each and std::transform
 #include <functional> // -> for using standard function objects (if needed)
 
-// =============================================================
+// =======================================================
 // Functor that squares an integer and prints it
-// =============================================================
+// =======================================================
 struct Square_Functor {
     void operator() (int x) {
         // This function object prints the square of a number
@@ -16,9 +16,9 @@ struct Square_Functor {
     }
 };
 
-// =============================================================
+// =======================================================
 // Templated Functor that displays any type of data
-// =============================================================
+// =======================================================
 template <typename T>
 struct Displayer {
     void operator() (const T &data) {
@@ -27,9 +27,9 @@ struct Displayer {
     }
 };
 
-// =============================================================
+// =======================================================
 // Functor that multiplies numbers by a fixed value
-// =============================================================
+// =======================================================
 class Multiplier {
 private:
     int num{};   // the number to multiply with
