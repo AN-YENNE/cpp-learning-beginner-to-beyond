@@ -1,5 +1,4 @@
 // Section 13: Copy Constructor
-//
 // This example shows the problem with a *shallow copy* in C++.
 //
 // A shallow copy simply copies the address of a pointer, not the actual data
