@@ -1,9 +1,8 @@
 // --------------------------------------------------------------
 // Section 14 - Overloading Operators as Member Methods
 //
-// This example demonstrates how operator overloading lets
-// objects behave more like built-in types.
-// --------------------------------------------------------------
+// This example demonstrates how operator overloading lets objects behave more like built-in types.
+// ----------------------------------------------------
 #include <iostream>
 #include "Mystring.h"
 
