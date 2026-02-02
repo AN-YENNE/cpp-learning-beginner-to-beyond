@@ -5,8 +5,7 @@
 // It demonstrates initialization, comparison, assignment, concatenation,
 // indexing, iteration, substrings, erase, getline, and find.
 //
-// Tip: Prefer std::string over C-style strings unless you have a specific reason.
-// It manages memory automatically and comes with many convenient member functions.
+// Tip: Prefer std::string over C-style strings unless you have a specific reason.It manages memory automatically and comes with many convenient member functions.
 
 #include <iostream>
 #include <iomanip>
