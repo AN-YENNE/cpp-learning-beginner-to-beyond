@@ -1,6 +1,5 @@
 // Section 13: Move Constructor
-//
-// This example demonstrates the move constructor and how it transfers ownership
+//move constructor and how it transfers ownership
 // of dynamically allocated resources (a raw int* here) from one object to another.
 // Moving avoids expensive deep copies and prevents double-deletes by setting the
 // source pointer to nullptr after the move.
